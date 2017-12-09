@@ -1,2 +1,2 @@
 # Challenges
-Programming challenges
+Some challenges from codewars
